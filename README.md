@@ -1,4 +1,4 @@
-# 微信AI训练数据工具包 (WeChat AI Training Data Toolkit)
+# 微信AI训练数据工具包 (WeData)
 
 一个强大的微信聊天记录处理工具包，专门用于将微信导出的聊天记录转换为AI模型训练数据格式。
 
@@ -21,8 +21,8 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/yourusername/wechat-ai-training-data-toolkit.git
-cd wechat-ai-training-data-toolkit
+git clone https://github.com/niejingchuan/wedata.git
+cd wedata
 ```
 
 2. **安装依赖**
@@ -122,9 +122,10 @@ BATCH_SIZE = 1000
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 [Issue](https://github.com/yourusername/wechat-ai-training-data-toolkit/issues)
-- 发起 [Discussion](https://github.com/yourusername/wechat-ai-training-data-toolkit/discussions)
+- 提交 [Issue](https://github.com/niejingchuan/wedata/issues)
+- 发起 [Discussion](https://github.com/niejingchuan/wedata/discussions)
 
 ---
+
 
 ⭐ 如果这个项目对您有帮助，请给个Star支持一下！
